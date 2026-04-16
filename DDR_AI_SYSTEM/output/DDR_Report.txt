@@ -1,0 +1,139 @@
+DETAILED DIAGNOSTIC REPORT
+
+1. Property Issue Summary
+Based on the extracted inspection and thermal scan data, the report summarizes observed thermal readings and visual inspection notes.
+
+2. Area-wise Observations
+
+Area: Inspection Area (Page 0)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page0.png
+
+Area: Inspection Area (Page 1)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page1.png
+
+Area: Inspection Area (Page 2)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page2.png
+
+Area: Inspection Area (Page 3)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page3.png
+
+Area: Inspection Area (Page 4)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page4.png
+
+Area: Inspection Area (Page 5)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page5.png
+
+Area: Inspection Area (Page 6)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page6.png
+
+Area: Inspection Area (Page 7)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page7.png
+
+Area: Inspection Area (Page 8)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page8.png
+
+Area: Inspection Area (Page 9)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page9.png
+
+Area: Inspection Area (Page 10)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page10.png
+
+Area: Inspection Area (Page 11)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page11.png
+
+Area: Inspection Area (Page 12)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page12.png
+
+Area: Inspection Area (Page 13)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page13.png
+
+Area: Inspection Area (Page 14)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page14.png
+
+Area: Inspection Area (Page 15)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page15.png
+
+Area: Inspection Area (Page 16)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page16.png
+
+Area: Inspection Area (Page 17)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page17.png
+
+Area: Inspection Area (Page 18)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page18.png
+
+Area: Inspection Area (Page 19)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page19.png
+
+Area: Inspection Area (Page 20)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page20.png
+
+Area: Inspection Area (Page 21)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page21.png
+
+Area: Inspection Area (Page 22)
+Observation: Inspection notes extracted from report.
+Thermal Finding: Temperature readings recorded in thermal scan.
+Image: output/images\page22.png
+
+
+3. Probable Root Cause
+Not Available
+
+4. Severity Assessment (with reasoning)
+Severity cannot be fully determined from the extracted data alone.
+
+5. Recommended Actions
+Conduct further on-site inspection if anomalies are suspected.
+
+6. Additional Notes
+Thermal scans were captured using GTC 400 C Professional device.
+
+7. Missing or Unclear Information
+Property address – Not Available
+Building construction details – Not Available
+Inspection objective – Not Available
